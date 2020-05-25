@@ -16,6 +16,8 @@
                <dict>
                    <key>kind</key>
                    <string>full-size-image</string>
+                   <key>needs-shine</key>
+                   <true/>
                    <key>url</key>
                    <string>http://121.36.143.137:7777/group1/M00/00/0A/wKgBg17LJDiAZKYPAAAZLLxJYSU874.png</string>
                </dict>
